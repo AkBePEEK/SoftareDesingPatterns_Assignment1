@@ -14,6 +14,7 @@ Task 1:
     5. DIP (Dependency Inversion Principle): The high-level PaymentService class is based on the Payment 
     interface rather than specific payment classes, ensuring flexibility and loose coupling.
 Task 2:
+
   Explanation of the SOLID principles Applied:
   
     1. SRP (Single Responsibility Principle): Each notification type (e.g. SMSNotification, EmailNotification) 
