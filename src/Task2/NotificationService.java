@@ -2,7 +2,7 @@ package Task2;
 import java.util.List;
 
 public class NotificationService {
-    private Notification notification;
+    private final Notification notification;
 
     public NotificationService(Notification notification) {
         this.notification = notification;
